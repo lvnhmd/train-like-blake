@@ -1,0 +1,19 @@
+{
+  "block": "A",
+  "exercises": [
+    {
+      "name": "A1. Child's Pose",
+      "videoUrl": "/program/Day 1 - Linear/A1. Child's Pose.mp4",
+      "rounds": 1,
+      "reps": "5 Breaths",
+      "rest": false
+    },
+    {
+      "name": "A2. 90 90 Hip Stretch",
+      "videoUrl": "program/Day 1 - Linear/A2. 90 90 Hip Stretch.mp4",
+      "rounds": 1,
+      "reps": "30 Sec",
+      "rest": true
+    }
+  ]
+}

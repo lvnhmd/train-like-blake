@@ -1,0 +1,51 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workout Player</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h1>Workout Program</h1>
+
+    <label for="week">Select Week:</label>
+    <select id="week">
+        <option value="1">Week 1</option>
+        <option value="2">Week 2</option>
+        <!-- Add more weeks -->
+    </select>
+
+    <label for="day">Select Day:</label>
+    <select id="day">
+        <option value="1">Day 1</option>
+        <option value="2">Day 2</option>
+        <!-- Add more days -->
+    </select>
+
+    <button onclick="loadWorkout()">Load Workout</button>
+
+    <div id="workout-program">
+        <!-- Program will be dynamically populated here -->
+    </div>
+
+    <video id="workout-video" width="600" controls>
+        <source src="" id="video-source">
+        Your browser does not support HTML5 video.
+    </video>
+
+    <div>
+        <button onclick="prevExercise()">Previous</button>
+        <button onclick="nextExercise()">Next</button>
+    </div>
+
+    <h3 id="block-name"></h3>
+    <p id="exercise-name"></p>
+    <p id="round-info"></p>
+    <p id="reps-info"></p>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
