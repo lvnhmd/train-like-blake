@@ -1,19 +1,101 @@
-{
-  "block": "A",
-  "exercises": [
-    {
-      "name": "A1. Child's Pose",
-      "videoUrl": "/program/Day 1 - Linear/A1. Child's Pose.mp4",
-      "rounds": 1,
-      "reps": "5 Breaths",
-      "rest": false
-    },
-    {
-      "name": "A2. 90 90 Hip Stretch",
-      "videoUrl": "program/Day 1 - Linear/A2. 90 90 Hip Stretch.mp4",
-      "rounds": 1,
-      "reps": "30 Sec",
-      "rest": true
-    }
-  ]
-}
+[
+  {
+    "block": "A",
+    "rounds": 1,
+    "exercises": [
+      {
+        "name": "A1. Child's Pose",
+        "videoUrl": "/program/Day 1 - Linear/A1. Child's Pose.mp4",
+        "reps": "5 Breaths"
+      },
+      {
+        "name": "A2. Hip 90/90",
+        "videoUrl": "/program/Day 1 - Linear/A2. 90 90 Hip Stretch.mp4",
+        "reps": "30 Sec"
+      },
+      {
+        "name": "A3. Hip Flexor Stretch",
+        "videoUrl": "/program/Day 1 - Linear/A3. Hip Flexor Stretch.mp4",
+        "reps": "20 Sec"
+      },
+      {
+        "name": "A4. Cats & Dogs",
+        "videoUrl": "/program/Day 1 - Linear/A4. Cats & Dogs.mp4",
+        "reps": "10"
+      },
+      {
+        "name": "A5. Hip Airplanes",
+        "videoUrl": "program/Day 1 - Linear/A5. Hip Airplane.mp4",
+        "reps": "5"
+      }
+    ]
+  },
+  {
+    "block": "B",
+    "rounds": 2,
+    "exercises": [
+      {
+        "name": "B1. Push-Up (for Speed)",
+        "videoUrl": "/program/Day 1 - Linear/B1. Push-Ups.mp4",
+        "reps": "5-8"
+      },
+      {
+        "name": "B2. Broad Jump",
+        "videoUrl": "/program/Day 1 - Linear/B2. Broad Jumps.mp4",
+        "reps": "5"
+      },
+      {
+        "name": "B3. Farmer Carries",
+        "videoUrl": "/program/Day 1 - Linear/B3. Farmer Carries.mp4",
+        "reps": "50 Steps"
+      },
+      {
+        "name": "Rest",
+        "videoUrl": "/program/countdown.mp4",
+        "reps": "60 Seconds"
+      }
+    ]
+  },
+  {
+    "block": "C",
+    "rounds": 4,
+    "exercises": [
+      {
+        "name": "C1. DB Deadlift",
+        "videoUrl": "/program/Day 1 - Linear/C1. DB Deadlift.mp4",
+        "reps": "8"
+      },
+      {
+        "name": "C2. Flat DB Press",
+        "videoUrl": "/program/Day 1 - Linear/C2. Flat DB Press.mp4",
+        "reps": "8"
+      },
+      {
+        "name": "Rest",
+        "videoUrl": "/program/countdown.mp4",
+        "reps": "60 Seconds"
+      }
+    ]
+  },
+  {
+    "block": "D",
+    "rounds": 4,
+    "exercises": [
+      {
+        "name": "D1. Goblet Squat",
+        "videoUrl": "/program/Day 1 - Linear/D1. Goblet Squats.mp4",
+        "reps": "8"
+      },
+      {
+        "name": "D2. Bent Over DB Row",
+        "videoUrl": "/program/Day 1 - Linear/D2. DB Bent Over Row.mp4",
+        "reps": "8"
+      },
+      {
+        "name": "Rest",
+        "videoUrl": "/program/countdown.mp4",
+        "reps": "60 Seconds"
+      }
+    ]
+  }
+]
