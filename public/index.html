@@ -19,8 +19,12 @@
 
     <label for="day">Select Day:</label>
     <select id="day">
-        <option value="1">Day 1</option>
-        <option value="2">Day 2</option>
+        <option value="1">Day 1 - Linear</option>
+        <option value="2">Day 2 - Lateral</option>
+        <option value="3">Day 3 - Accessory, Abs, & Cardio</option>
+        <option value="4">Day 4 - Linear</option>
+        <option value="5">Day 5 - Lateral</option>
+        <option value="6">Day 6 - Optional Cardio & Abs</option>
         <!-- Add more days -->
     </select>
 
@@ -30,24 +34,33 @@
         <!-- Program will be dynamically populated here -->
     </div>
 
-    <!-- Round Indicator -->
-    <h2 id="round-indicator" style="color: red; font-size: 24px; font-weight: bold;">Round: 1</h2>
+    <h2 id="round-indicator" style="font-size: 24px; font-weight: bold;">
+        Round: <span id="round-number" style="color: red;">1</span>
+    </h2>
 
-    <!-- Workout Video Element -->
-    <video id="workout-video" width="600" controls>
+    <div id="info-container"
+        style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-bottom: 20px;">
+        <h3 id="block-name" style="color: rgb(238, 255, 0); background-color: rgb(57, 13, 28); margin: 0; padding: 10px;"></h3>
+        <p id="round-info" style="color: blue; margin: 0;"></p>
+        <p id="exercise-name" style="color: green; margin: 0;"></p>
+        <p id="reps-info" style="color: rgb(57, 13, 28); margin: 0;"></p>
+    </div>
+
+    <video id="workout-video" width="300" height="400" controls
+        style="object-fit: cover; display: block; margin: 0 auto;">
         <source src="" id="video-source">
         Your browser does not support HTML5 video.
     </video>
 
-    <div>
-        <button onclick="prevExercise()">Previous</button>
-        <button onclick="nextExercise()">Next</button>
+    <div style="text-align: center; margin-top: 20px;">
+        <button id="prevButton" onclick="prevExercise()"
+            style="background-color: purple; color: white; margin-right: 10px; padding: 10px; border: none; border-radius: 20px;">Previous</button>
+        <button id="nextButton" onclick="nextExercise()"
+            style="background-color: orange; color: white; padding: 10px; border: none; border-radius: 20px;">Next</button>
     </div>
 
-    <h3 id="block-name"></h3>
-    <p id="exercise-name"></p>
-    <p id="round-info"></p>
-    <p id="reps-info"></p>
+
+
 
     <script src="app.js"></script>
 </body>

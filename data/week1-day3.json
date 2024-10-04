@@ -1,0 +1,91 @@
+[
+  {
+      "block": "A",
+      "rounds": 1,
+      "exercises": [
+          {
+              "name": "A1. Child's Pose",
+              "videoUrl": "/program/Day 3 - Accessory, Abs, & Cardio/A1. Child's Pose.mp4",
+              "reps": "30 Sec"
+          },
+          {
+              "name": "A2. 90/90 Hip Stretch",
+              "videoUrl": "/program/Day 3 - Accessory, Abs, & Cardio/A2. 90 90 Hip Stretch.mp4",
+              "reps": "30 Sec"
+          },
+          {
+              "name": "A3. Hip Flexor Stretch",
+              "videoUrl": "/program/Day 3 - Accessory, Abs, & Cardio/A3. Hip Flexor Stretch.mp4",
+              "reps": "30 Sec"
+          },
+          {
+              "name": "A4. Cats & Dogs",
+              "videoUrl": "/program/Day 3 - Accessory, Abs, & Cardio/A4. Cats & Dogs.mp4",
+              "reps": "10"
+          },
+          {
+              "name": "A5. Hip Airplane",
+              "videoUrl": "/program/Day 3 - Accessory, Abs, & Cardio/A5. Hip Airplane.mp4",
+              "reps": "5"
+          }
+      ]
+  },
+  {
+      "block": "B",
+      "rounds": 3,
+      "exercises": [
+          {
+              "name": "B1. Alternating DB Curls",
+              "videoUrl": "/program/Day 3 - Accessory, Abs, & Cardio/B1. Alternating DB Curl.mp4",
+              "reps": "12"
+          },
+          {
+              "name": "B2. DB Side Raise",
+              "videoUrl": "/program/Day 3 - Accessory, Abs, & Cardio/B2. DB Side Raise.mp4",
+              "reps": "12"
+          },
+          {
+              "name": "B3. DB Kick Backs",
+              "videoUrl": "/program/Day 3 - Accessory, Abs, & Cardio/B3. DB Kickbacks.mp4",
+              "reps": "12"
+          },
+          {
+              "name": "Rest",
+              "videoUrl": "/program/countdown.mp4",
+              "reps": "1 Min"
+          }
+      ]
+  },
+  {
+      "block": "C",
+      "rounds": 3,
+      "exercises": [
+          {
+              "name": "C1. Reverse Crunch w/ Lift",
+              "videoUrl": "/program/Day 3 - Accessory, Abs, & Cardio/C1. Reverse Crunch with Lift.mp4",
+              "reps": "12"
+          },
+          {
+              "name": "C2. Side Plank",
+              "videoUrl": "/program/Day 3 - Accessory, Abs, & Cardio/C2. Side Plank.mp4",
+              "reps": "30 Sec"
+          },
+          {
+              "name": "Rest",
+              "videoUrl": "/program/countdown.mp4",
+              "reps": "1 Min"
+          }
+      ]
+  },
+  {
+      "block": "D",
+      "rounds": 1,
+      "exercises": [
+          {
+              "name": "D1. Pick Your Poison Cardio",
+              "videoUrl": "/program/Day 3 - Accessory, Abs, & Cardio/D1. Pick Your Poison Intervals.mp4",
+              "reps": "20 Minutes (Intervals: 1 Min On / 1 Min Off)"
+          }
+      ]
+  }
+]

@@ -39,7 +39,7 @@ function displayExercise() {
   document.getElementById('reps-info').textContent = `Reps: ${exercise.reps}`;
 
   // Update the round indicator
-  document.getElementById('round-indicator').textContent = `Round: ${currentRound}`;
+  document.getElementById('round-number').textContent = `${currentRound}`;
 }
 
 // Function to move to the next exercise

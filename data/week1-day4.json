@@ -1,0 +1,96 @@
+[
+  {
+      "block": "A",
+      "rounds": 1,
+      "exercises": [
+          {
+              "name": "A1. Child's Pose",
+              "videoUrl": "/program/Day 4 - Linear/A1. Child's Pose.mp4",
+              "reps": "30 Sec"
+          },
+          {
+              "name": "A2. 90/90 Hip Stretch",
+              "videoUrl": "/program/Day 4 - Linear/A2. 90 90 Hip Stretch.mp4",
+              "reps": "30 Sec"
+          },
+          {
+              "name": "A3. Hip Flexor Stretch",
+              "videoUrl": "/program/Day 4 - Linear/A3. Hip Flexor Stretch.mp4",
+              "reps": "30 Sec"
+          },
+          {
+              "name": "A4. Cats & Dogs",
+              "videoUrl": "/program/Day 4 - Linear/A4. Cats & Dogs.mp4",
+              "reps": "10"
+          },
+          {
+              "name": "A5. Hip Airplane",
+              "videoUrl": "/program/Day 4 - Linear/A5. Hip Airplane.mp4",
+              "reps": "5"
+          }
+      ]
+  },
+  {
+      "block": "B",
+      "rounds": 2,
+      "exercises": [
+          {
+              "name": "B1. Elevated Plyo Push-Up",
+              "videoUrl": "/program/Day 4 - Linear/B1. Elevated Plyo Push-Up.mp4",
+              "reps": "5"
+          },
+          {
+              "name": "B2. Jump Squats",
+              "videoUrl": "/program/Day 4 - Linear/B2. Jump Squats.mp4",
+              "reps": "10"
+          },
+          {
+              "name": "B3. Double Rack Carry",
+              "videoUrl": "/program/Day 4 - Linear/B3. Double Rack Carry.mp4",
+              "reps": "25 Steps"
+          },
+          {
+              "name": "Rest",
+              "videoUrl": "/program/countdown.mp4",
+              "reps": "1 Min"
+          }
+      ]
+  },
+  {
+      "block": "C",
+      "rounds": 4,
+      "exercises": [
+          {
+              "name": "C1. DB RDL",
+              "videoUrl": "/program/Day 4 - Linear/C1. DB RDL.mp4",
+              "reps": "8"
+          },
+          {
+              "name": "C2. Savickas Press",
+              "videoUrl": "/program/Day 4 - Linear/C2. Savickas Press.mp4",
+              "reps": "8"
+          }
+      ]
+  },
+  {
+      "block": "D",
+      "rounds": 4,
+      "exercises": [
+          {
+              "name": "D1. Heels Elevated Goblet Squat",
+              "videoUrl": "/program/Day 4 - Linear/D1. Heels Elevated Goblet Squat.mp4",
+              "reps": "8"
+          },
+          {
+              "name": "D2. DB Pullover",
+              "videoUrl": "/program/Day 4 - Linear/D2. DB Pullover.mp4",
+              "reps": "8"
+          },
+          {
+              "name": "Rest",
+              "videoUrl": "/program/countdown.mp4",
+              "reps": "1 Min"
+          }
+      ]
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "block": "A",
+    "rounds": 1,
+    "exercises": [
+      {
+        "name": "A1. Child's Pose",
+        "videoUrl": "/program/Day 5 - Lateral/A1. Child's Pose.mp4",
+        "reps": "30 Sec"
+      },
+      {
+        "name": "A2. 90/90 Hip Stretch",
+        "videoUrl": "/program/Day 5 - Lateral/A2. 90 90 Hip Stretch.mp4",
+        "reps": "30 Sec"
+      },
+      {
+        "name": "A3. Hip Flexor Stretch",
+        "videoUrl": "/program/Day 5 - Lateral/A3. Hip Flexor Stretch.mp4",
+        "reps": "30 Sec"
+      },
+      {
+        "name": "A4. Cats & Dogs",
+        "videoUrl": "/program/Day 5 - Lateral/A4. Cats & Dogs.mp4",
+        "reps": "10"
+      },
+      {
+        "name": "A5. Hip Airplane",
+        "videoUrl": "/program/Day 5 - Lateral/A5. Hip Airplane.mp4",
+        "reps": "5"
+      }
+    ]
+  },
+  {
+    "block": "B",
+    "rounds": 2,
+    "exercises": [
+      {
+        "name": "B1. Matrix Jumps",
+        "videoUrl": "/program/Day 5 - Lateral/B1. Matrix Jumps.mp4",
+        "reps": "5"
+      },
+      {
+        "name": "B2. Push-Up",
+        "videoUrl": "/program/Day 5 - Lateral/B2. Push-Up.MOV",
+        "reps": "10"
+      },
+      {
+        "name": "B3. Single Arm Overhead Carry",
+        "videoUrl": "/program/Day 5 - Lateral/B3. Single Arm Overhead Carry.mp4",
+        "reps": "25 Steps"
+      },
+      {
+        "name": "Rest",
+        "videoUrl": "/program/countdown.mp4",
+        "reps": "1 Min"
+      }
+    ]
+  },
+  {
+    "block": "C",
+    "rounds": 4,
+    "exercises": [
+      {
+        "name": "C1. Kick Stand RDL",
+        "videoUrl": "/program/Day 5 - Lateral/C1. Kickstand RDL.mp4",
+        "reps": "8"
+      },
+      {
+        "name": "C2. Single Arm DB Chest Press",
+        "videoUrl": "/program/Day 5 - Lateral/C2. Single Arm DB Chest Press.mp4",
+        "reps": "8"
+      }
+    ]
+  },
+  {
+    "block": "D",
+    "rounds": 4,
+    "exercises": [
+      {
+        "name": "D1. DB Reverse Lunge",
+        "videoUrl": "/program/Day 5 - Lateral/D1. DB Reverse Lunge.mp4",
+        "reps": "8"
+      },
+      {
+        "name": "D2. Single Arm Single Leg Row",
+        "videoUrl": "/program/Day 5 - Lateral/D2. Single Arm Single Leg Row.mp4",
+        "reps": "8"
+      },
+      {
+        "name": "Rest",
+        "videoUrl": "/program/countdown.mp4",
+        "reps": "1 Min"
+      }
+    ]
+  }
+]
